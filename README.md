@@ -27,9 +27,9 @@ The comparison of main multi-modal dialogue datasets and their characteristics a
 
 ## Data Download
 
-We provide a way to download our data. You can use [src/spider.py](./src/spider.py) and video ids to get the url for each video and use [src/download_videos.py](./Application Form.pdf) to download the videos.
+We provide a way to download our data. You can use [src/spider.py](./src/spider.py) and video ids to get the url for each video and use [src/download_videos.py](./src/download_videos.py) to download the videos.
 
-You need to ensure that the data are used only for research purposes and are not redistributed to any third party. If the data are reproduced in electronic or print media, they may only be used in scientific journals with a copyright notice. Please fill in the [application form](./Application Form.pdf) and send it to aimindtiktalk@163.com and we will provide the download links the video ids and corresponding dialogue data.
+You need to ensure that the data are used only for research purposes and are not redistributed to any third party. If the data are reproduced in electronic or print media, they may only be used in scientific journals with a copyright notice. Please fill in the [application form](./Application%20Form.pdf) and send it to aimindtiktalk@163.com and we will provide the download links the video ids and corresponding dialogue data.
 
 ## Lisense
 
