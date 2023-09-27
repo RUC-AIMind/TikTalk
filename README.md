@@ -19,7 +19,7 @@ TikTalk is a  multi-modal Chinese dialogue dataset introduced in [TikTalk: A Vid
 The comparison of main multi-modal dialogue datasets and their characteristics are present in the table below.
 
 <p align="center">
-<img src="figs/comparison.PNG" alt="comparison"/>
+<img src="figs/comparison1.JPG" alt="comparison"/>
 </p>
 <p align="center">
 </p>
