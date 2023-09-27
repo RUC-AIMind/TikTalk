@@ -4,10 +4,10 @@
 
 ## Introduction
 
-TikTalk is a  multi-modal Chinese dialogue dataset introduced in [TikTalk: A Multi-modal Dialogue Dataset for Real-world Chichat](https://arxiv.org/abs/2301.05880). It contains 38,703 videos and corresponding 367,670 dialogues in Douyin.
+TikTalk is a  multi-modal Chinese dialogue dataset introduced in [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880). It contains 38,703 videos and corresponding 367,670 dialogues in Douyin.
 
 <p align="center">
-<img src="figs/examples.PNG" alt="examples for tiktalk" width="50%"/>
+<img src="figs/examples.JPG" alt="examples for tiktalk" width="50%"/>
 </p>
 <p align="center">
 <font size=2 color="gray">Examples of dialogues from TikTalk dataset.</font>
