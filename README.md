@@ -4,7 +4,7 @@
 
 ## Introduction
 
-TikTalk is a  multi-modal Chinese dialogue dataset introduced in [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880). [Here](https://ruc-aimind.github.io/projects/TikTalk/) is our project page. Our paper has been accepted by ACM Multimedia 2023 (Oral).
+TikTalk is a  multi-modal Chinese dialogue dataset introduced in [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880). Our dataset homepage is [here](https://ruc-aimind.github.io/projects/TikTalk/). Our paper has been accepted by ACM Multimedia 2023 (Oral).
 
 <p align="center">
 <img src="figs/examples.JPG" alt="examples for tiktalk" width="50%"/>
