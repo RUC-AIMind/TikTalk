@@ -4,7 +4,7 @@ As we disclosed our research relatively early, a few years later, the degree of 
 
 🔍 **What's New?**
 
-The data TikTalk_Dataset can now be accessed on the [cloud disk](https://pan.baidu.com/s/1nRcA_OV-zX5EK6CalBjvaQ) using the extraction code g254!
+The data TikTalk_Dataset can now be accessed on the [cloud disk](https://pan.baidu.com/s/1nRcA_OV-zX5EK6CalBjvaQ) using the extraction code 'g254'!
 
 # TikTalk
 
