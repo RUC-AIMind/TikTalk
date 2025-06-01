@@ -1,4 +1,4 @@
-## Important update [Oct 9th, 2024] 🚀
+## Important update [Jun 1st, 2025] 🚀
 
 As we disclosed our research relatively early, a few years later, the degree of privacy protection declined. Therefore, we decided to release the data in a more open format.
 
